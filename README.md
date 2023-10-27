@@ -64,7 +64,8 @@
         ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/d7e0969f-32b9-40c1-8cfd-67ab70b5dd80)
         
         - 클릭을 통해 빨간점을 찍고, 연한 초록색 면적이 계산되어 feature로 활용할 수 있도록 코딩
-     
+
+
     - **(고객 선호도)** 공연별 예매순서를 느린 순으로 랭크(cumcount)하여 고객선호도를 수치화
         - 예매되지 않은 좌석 ==  0
         - 제일 늦게 예매된 좌석 == 1
