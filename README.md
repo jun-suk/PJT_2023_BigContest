@@ -68,13 +68,9 @@
     - '예매가 빨리 된 좌석일수록 고객 선호도가 높은 좌석'이라는 가설을 세움.
     - 공연별 예매 순서를 기준으로 좌석 선호도의 분포가 비슷한 공연끼리 클러스터링함.
 
-![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/40fd8e04-8360-4df8-b4cf-e771e6302d59)
+![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/e2c37b73-7bad-4bbd-8a68-d2c1f64712a5)
 
-![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/a08e05d)
 
-![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/f1c236fd-9335-456f-b936-3f73f6fbf238)
-
-![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/e4f902cf-0384-40cb-845f-639349384753)
 
 - 공연 클러스터별 주요 변수 파악
     - 1)에서 만든 공연 클러스터별 좌석 가치 판단요소(좌석 시야, 가로거리, 가로 방향(무대기준 좌,우), 세로거리, 세로 방향(무대기준 앞, 뒤), 층고)이 좌석 선호도에 미치는 영향의 크기와 양, 음의 상관관계를 파악하고, 이를 수치화함.
