@@ -97,11 +97,11 @@
         
 - 좌석등급 분배
     - 선호도 순으로 좌석의 등급을 지정하되, 등급별 좌석의 갯수는 기존 예술의전당에서 적용중인 등급별 허용좌석수를 참고함.
+      ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/0b3e1184-d5d1-4099-9939-9165e524c28c)
+        
+      ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/ef77a68b-f129-4250-870f-3a31bdbf41c0)
     - 등급별 선호도 평균의 차를 통해 등급간 가격 차이 산정
         
-        ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/0b3e1184-d5d1-4099-9939-9165e524c28c)
-        
-        ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/ef77a68b-f129-4250-870f-3a31bdbf41c0)
         
         ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/0ceb632d-c77d-47f5-9e47-3456738d40a5)
         
