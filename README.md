@@ -100,7 +100,7 @@
       ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/0b3e1184-d5d1-4099-9939-9165e524c28c)
         
       ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/ef77a68b-f129-4250-870f-3a31bdbf41c0)
-    - 등급별 선호도 평균의 차를 통해 등급간 가격 차이 산정
+    - 등급별 선호도 평균의 차를 통해 평균 좌석객단가 기준으로 등급간 가격 비율 산정
         
         
         ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/0ceb632d-c77d-47f5-9e47-3456738d40a5)
