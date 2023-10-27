@@ -73,6 +73,10 @@
         - 제일 늦게 예매된 좌석 == 1
         - 제일 빠르게 예매된 좌석 == {해당 공연의 총 예매좌석수}
 
+
+    - 최종 활용변수
+      ![Untitled](https://github.com/jun-suk/PJT_2023_BigContest/assets/73885257/6eab8fe6-d696-4d8b-8f97-2352aa2aa83c)
+
 <br>
 
 - 공연 클러스터링
